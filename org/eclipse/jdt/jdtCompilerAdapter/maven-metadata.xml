@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.eclipse.jdt</groupId>
+  <artifactId>jdtCompilerAdapter</artifactId>
+  <versioning>
+    <latest>3.9.1.v20130905-0837</latest>
+    <release>3.9.1.v20130905-0837</release>
+    <versions>
+      <version>3.9.1.v20130905-0837</version>
+    </versions>
+    <lastUpdated>20131210085137</lastUpdated>
+  </versioning>
+</metadata>
